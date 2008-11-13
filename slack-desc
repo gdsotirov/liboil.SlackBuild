@@ -1,0 +1,11 @@
+liboil: LibOIL (A Library of Optimized Inner Loops)
+liboil:
+liboil: Liboil is a collection of functions that often benefit from having
+liboil: special implementations on various architectures or CPUs.  Each
+liboil: function in liboil has several implementations which may perform
+liboil: faster or slower on a given CPU.  Some implementations use alternate
+liboil: algorithms, some use hand-crafted assembly, and some use special
+liboil: instructions that are only available on certain CPUs, such as MMX,
+liboil: SSE, or Altivec. The fastest implementation is automatically chosen
+liboil: at runtime. 
+liboil: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
