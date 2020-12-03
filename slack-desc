@@ -8,4 +8,4 @@ liboil: algorithms, some use hand-crafted assembly, and some use special
 liboil: instructions that are only available on certain CPUs, such as MMX,
 liboil: SSE, or Altivec. The fastest implementation is automatically chosen
 liboil: at runtime. 
-liboil: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+liboil: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
